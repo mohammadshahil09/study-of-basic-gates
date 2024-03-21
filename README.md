@@ -77,15 +77,18 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 
-![](1b.png)
+![de](https://github.com/mohammadshahil09/study-of-basic-gates/assets/145742840/37a00186-3ee1-4ee1-a42a-a36fbeffdb27)
+
 
 **RTL**
 
-![](1c.png)
+![de2](https://github.com/mohammadshahil09/study-of-basic-gates/assets/145742840/c179af16-d5d4-4592-8282-77511f26d682)
+
 
 **Output**
 
-![](1d.png)
+![de3](https://github.com/mohammadshahil09/study-of-basic-gates/assets/145742840/a5c10a73-0bc0-4dfe-b6bf-e7076e23d2d2)
+
 
 **Result:**
 
